@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "558914098713",
+    "firebase_url": "https://deliyummy-a9122.firebaseio.com",
+    "project_id": "deliyummy-a9122",
+    "storage_bucket": "deliyummy-a9122.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558914098713:android:4a25bb5c22476da2f2bc88",
+        "android_client_info": {
+          "package_name": "com.deliyummy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558914098713-bbd19qhn8jbp72kb315553h833mekfd2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deliyummy",
+            "certificate_hash": "004072bfaf1181a29c445728f61df08671df8e2d"
+          }
+        },
+        {
+          "client_id": "558914098713-c7s7101hdmfjualk8pak8h8gko12un3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgoA8MsxABlw4Hi3ou7zHxQ8rksttHeI8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558914098713-c7s7101hdmfjualk8pak8h8gko12un3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
